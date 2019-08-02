@@ -22,7 +22,7 @@ export default class index extends Component {
                <Link to="/contato"> Contato </Link>               
                </div>  
 
-               <DivText><Text>A música faz parte do nosso DNA. Desde que me lembro, ela sempre fez parte das nossas vidas. xD</Text></DivText> 
+               <DivText><Text>A música faz parte do nosso DNA. Desde que me lembro, ela sempre fez parte das nossas vidas.</Text></DivText> 
               
                <InstagramEmbed
                 url='https://www.instagram.com/p/By6MAF3FRfU/'
