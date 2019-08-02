@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/static/js/main.1f8d2251.chunk.js",
+    "main.js.map": "/static/js/main.1f8d2251.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.165553ab.chunk.js": "/static/js/2.165553ab.chunk.js",
+    "static/js/2.165553ab.chunk.js.map": "/static/js/2.165553ab.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.cd735ed9da482e7275cb6bfbb07d6443.js": "/precache-manifest.cd735ed9da482e7275cb6bfbb07d6443.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/facebook.svg": "/static/media/facebook.e5f064f5.svg",
+    "static/media/image1.jpg": "/static/media/image1.16512a6c.jpg",
+    "static/media/image2.jpg": "/static/media/image2.a7bd39da.jpg",
+    "static/media/image3.jpg": "/static/media/image3.e5a657ff.jpg",
+    "static/media/image4.jpg": "/static/media/image4.52373f2c.jpg",
+    "static/media/instagram.svg": "/static/media/instagram.b4a563e7.svg",
+    "static/media/logoKasivvo.png": "/static/media/logoKasivvo.afce8e44.png",
+    "static/media/mixcloud.svg": "/static/media/mixcloud.97801018.svg",
+    "static/media/soundcloud.svg": "/static/media/soundcloud.240d773e.svg",
+    "static/media/youtube.svg": "/static/media/youtube.8cab3679.svg"
+  }
+}

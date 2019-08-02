@@ -5,11 +5,14 @@
 /.pnp
 .pnp.js
 
+#não subir o yarn.lock para não dar conflito com o package.json no heroku
+#yarn.lock
+
 # testing
 /coverage
 
 # production
-/build
+#/build
 
 # misc
 .DS_Store
