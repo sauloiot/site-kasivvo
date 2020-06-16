@@ -29,9 +29,9 @@ export default class index extends Component {
                   </text>
               </PagTitle>
                <Agenda>
-                   <div><text>
+                   <div><text><TextCortado>
                        17 de Agosto - Ork Music Sessions BDAY (Ork Music Sessions) - Maceió,AL
-                    </text></div>
+                    </TextCortado></text></div>
 
                     <div><TextCortado>
                     22 de Junho - RESET (Ork Music Sessions) - Maceió,AL
