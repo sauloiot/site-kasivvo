@@ -25,7 +25,7 @@ export default class index extends Component {
 
               <PagTitle>
                   <text>
-                      AGENDA
+                      AGENDA 
                   </text>
               </PagTitle>
                <Agenda>
